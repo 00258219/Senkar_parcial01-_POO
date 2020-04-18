@@ -11,7 +11,7 @@ public final class CalculadoraImpuesto {
 
     private CalculadoraImpuesto(){}
 
-    public double calcularPago(Empleado emp){
+    public static double calcularPago(Empleado emp){
         double salarioLiquido = 0;
         double renta = 0, afp = 0, isss = 0;
 
@@ -42,7 +42,7 @@ public final class CalculadoraImpuesto {
         return salarioLiquido;
     }
 
-    public String mostrarTotales(){
+    public static String mostrarTotales(){
         return "Total de renta: $"+totalRenta+"\nTotal de ISSS: $"+totalISSS+"\nTotal de AFP: $"+totalAFP;
     }
 

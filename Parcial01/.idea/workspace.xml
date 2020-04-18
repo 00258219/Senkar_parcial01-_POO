@@ -20,6 +20,9 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.OEOM.x00258219.Main" />
@@ -31,6 +34,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,9 +54,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1587163388047">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1587185102025">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser/0.23.1280.727@0.23.1280.727" timestamp="1587163388047" />
+    <state x="453" y="108" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1587185102025" />
+    <state width="1236" height="189" key="GridCell.Tab.0.bottom" timestamp="1587188324631">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="189" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1587185519987" />
+    <state width="1236" height="189" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1587188324631" />
+    <state width="1236" height="189" key="GridCell.Tab.0.center" timestamp="1587188324628">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="189" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1587185519987" />
+    <state width="1236" height="189" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1587188324628" />
+    <state width="1236" height="189" key="GridCell.Tab.0.left" timestamp="1587188324627">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="189" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1587185519986" />
+    <state width="1236" height="189" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1587188324627" />
+    <state width="1236" height="189" key="GridCell.Tab.0.right" timestamp="1587188324629">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1236" height="189" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1587185519987" />
+    <state width="1236" height="189" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1587188324629" />
+    <state x="17" y="23" key="new project wizard" timestamp="1587185040960">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="17" y="23" key="new project wizard/0.23.1280.728@0.23.1280.728" timestamp="1587185040960" />
   </component>
 </project>
