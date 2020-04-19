@@ -34,11 +34,18 @@ public final class CalculadoraImpuesto {
                 renta = (0.3)*(restante - 2038.10) + 299.57;
 
             salarioLiquido = restante - renta;
+            salarioLiquido = Math.round(salarioLiquido * 100.0) / 100.0;
         }
 
         totalRenta += renta;
+        totalRenta = Math.round(totalRenta * 100.0) / 100.0;
+
         totalISSS += afp;
+        totalISSS = Math.round(totalISSS * 100.0) / 100.0;
+
         totalAFP += isss;
+        totalAFP = Math.round(totalAFP * 100.0) / 100.0;
+
         return salarioLiquido;
     }
 
